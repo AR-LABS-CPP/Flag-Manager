@@ -6,6 +6,6 @@ package com.arlabs.myfm.constants;
  */
 public class DatabaseConstants {
     public static final String DATABASE_URL = "jdbc:postgresql://localhost/myfm";
-    public static final String USERNAME = "postgres";
-    public static final String PASSWORD = "02489513";
+    public static final String USERNAME = "DATABASE_USERNAME";
+    public static final String PASSWORD = "DATABASE_PASSWORD";
 }
